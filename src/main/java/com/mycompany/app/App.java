@@ -9,6 +9,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Remote World!!!" );
+        String testVar = "Hello Remote World!!!";
+        System.out.println(testVar);
+        //System.out.println( "Hello Remote World!!!" );
     }
 }
